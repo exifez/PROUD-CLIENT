@@ -3,6 +3,23 @@
 Najnowsze na górze. Pełne notatki każdej wersji są też na stronie [Releases](https://github.com/exifez/PROUD-CLIENT/releases).
 
 
+## 1.8.0
+
+- Kosmetyka w grze: wbudowany mod Proud Cosmetics (peleryna, aura, tag przy nicku) instaluje sie sam w profilach Fabric i Quilt, ustawienia w WYGLAD
+- Wlasna peleryna: wgraj PNG z launchera, 3 gotowe style, 7 rodzajow aury, 3 style tagu
+- Edytor motywu: drugi kolor, przezroczystosc paneli i widocznosc animacji Matrix
+- Gotowe zestawy modow (PvP, SMP, Max FPS, Prawie vanilla, Screeny) jednym kliknieciem
+- Wyszukiwarka dowolnych modow z Modrinth w MODY: dodane mody instaluja sie z zaleznosciami
+- Kontrola modow: brakujace zaleznosci, konflikty, duplikaty, zly loader i wersja gry, plus podglad folderu mods
+- Ustawienia profilu: ikona, kolor, ulubiony, wlasny RAM, argumenty JVM i Java na profil
+- Eksport profilu do .mrpack (mody, konfiguracja, tekstury, shadery)
+- Konsola gry na zywo z filtrami, kopiowaniem i analiza logu
+- Analiza crashy: launcher podpowiada przyczyne (RAM, Java, mixiny, sterowniki, duplikaty modow i inne)
+- Szybszy start: mody pobieraja sie po kilka naraz
+- Naprawiony blad, przez ktory wylaczony mod (np. Cosmetica) zostawal w folderze mods, gdy plik byl zablokowany
+- Import serwerow z gry (servers.dat), kopiowanie zrzutow do schowka
+- Jezyk angielski, skroty klawiszowe (Ctrl+1-7, Ctrl+Enter, Ctrl+N, Ctrl+F, Esc) i szybki start profilu z zasobnika
+
 ## 1.7.0
 
 - Wiele profili: kazdy z wlasna wersja gry, modami, swiatami i ustawieniami (przycisk + obok GRAJ)

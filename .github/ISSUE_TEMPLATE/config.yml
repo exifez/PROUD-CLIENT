@@ -3,3 +3,6 @@ contact_links:
   - name: Pobierz najnowszą wersję
     url: https://github.com/exifez/PROUD-CLIENT/releases/latest
     about: Zanim zgłosisz błąd, sprawdź, czy masz najnowszą wersję.
+  - name: Pomoc na Discordzie
+    url: https://discord.gg/rQ9YknS5c
+    about: Szybkie pytania i rozmowa z innymi graczami.

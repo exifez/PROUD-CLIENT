@@ -7,9 +7,10 @@
 [![Pobierz](https://img.shields.io/badge/POBIERZ-Windows-9bf6c5?style=for-the-badge&labelColor=0b0e17)](https://github.com/exifez/PROUD-CLIENT/releases/latest)
 [![Wersja](https://img.shields.io/github/v/release/exifez/PROUD-CLIENT?style=for-the-badge&color=ff8fc8&labelColor=0b0e17&label=wersja)](https://github.com/exifez/PROUD-CLIENT/releases/latest)
 [![Pobrania](https://img.shields.io/github/downloads/exifez/PROUD-CLIENT/total?style=for-the-badge&color=8b5cf6&labelColor=0b0e17&label=pobrania)](https://github.com/exifez/PROUD-CLIENT/releases)
+[![Discord](https://img.shields.io/badge/DISCORD-do%C5%82%C4%85cz-5865F2?style=for-the-badge&labelColor=0b0e17&logo=discord&logoColor=white)](https://discord.gg/rQ9YknS5c)
 [![Licencja](https://img.shields.io/badge/licencja-MIT-6ec5ff?style=for-the-badge&labelColor=0b0e17)](LICENSE)
 
-[**Pobierz**](https://github.com/exifez/PROUD-CLIENT/releases/latest) · [Funkcje](#funkcje) · [Instalacja](#instalacja) · [Loadery](#loadery-modów) · [FAQ](#najczęstsze-pytania) · [Historia zmian](CHANGELOG.md) · [Zgłoś problem](https://github.com/exifez/PROUD-CLIENT/issues/new/choose)
+[**Pobierz**](https://github.com/exifez/PROUD-CLIENT/releases/latest) · [Funkcje](#funkcje) · [Instalacja](#instalacja) · [Loadery](#loadery-modów) · [FAQ](#najczęstsze-pytania) · [Historia zmian](CHANGELOG.md) · [Zgłoś problem](https://github.com/exifez/PROUD-CLIENT/issues/new/choose) · [Discord](https://discord.gg/rQ9YknS5c)
 
 </div>
 
