@@ -1,0 +1,8 @@
+{
+  "servers": [
+    { "name": "Jewish Friendly", "address": "coilgens.minehut.gg", "note": "Polecany serwer" }
+  ],
+  "announcements": [
+    { "id": "witaj-1", "title": "Witaj w Proud Client", "text": "Dzieki, ze grasz z nami! Nowosci i ogloszenia beda pojawiac sie tutaj.", "until": "2027-01-01" }
+  ]
+}
