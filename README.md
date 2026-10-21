@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Proud Client" width="100%">
+<img src="banner.png" alt="Proud Client" width="100%">
 
 ### Launcher Minecraft z gotowymi modami, voicechatem i własnym wyglądem gry
 
@@ -16,7 +16,7 @@
 
 **Proud Client** instaluje Fabric i dobrane mody sam, osobno dla każdej wersji Minecrafta. Wybierasz wersję, klikasz **GRAJ** i gotowe: mody optymalizujące FPS, voicechat, mody pod PvP i SMP oraz własny wygląd menu gry.
 
-<p align="center"><img src="assets/home.png" width="85%" alt="Ekran główny"></p>
+<p align="center"><img src="home.png" width="85%" alt="Ekran główny"></p>
 
 ## Funkcje
 
@@ -35,8 +35,8 @@
 - **Automatyczne aktualizacje.**
 
 <p align="center">
-  <img src="assets/mods.png" width="49%" alt="Mody">
-  <img src="assets/servers.png" width="49%" alt="Serwery">
+  <img src="mods.png" width="49%" alt="Mody">
+  <img src="servers.png" width="49%" alt="Serwery">
 </p>
 
 ## Instalacja
