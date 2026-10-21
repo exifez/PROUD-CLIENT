@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Pobierz najnowszą wersję
+    url: https://github.com/exifez/PROUD-CLIENT/releases/latest
+    about: Zanim zgłosisz błąd, sprawdź, czy masz najnowszą wersję.

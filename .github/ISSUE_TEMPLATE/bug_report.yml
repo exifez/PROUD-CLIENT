@@ -1,0 +1,39 @@
+name: Błąd
+description: Coś nie działa w Proud Client
+title: "[Błąd] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Dzięki za zgłoszenie! Im więcej szczegółów, tym szybciej to naprawię."
+  - type: input
+    id: version
+    attributes:
+      label: Wersja launchera
+      description: Widoczna w lewym górnym rogu okna (np. v1.7.0)
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: Wersja gry i loader
+      placeholder: "np. Minecraft 1.21.1, Fabric"
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: Co się stało?
+      description: Opisz, co robiłeś, czego oczekiwałeś i co się stało zamiast tego.
+    validations:
+      required: true
+  - type: input
+    id: log
+    attributes:
+      label: Link do logu
+      description: "SYSTEM > Diagnostyka > Wyślij ostatni log. Wklej tu link z mclo.gs."
+  - type: textarea
+    id: extra
+    attributes:
+      label: Dodatkowe informacje
+      description: Zrzuty ekranu, komunikaty błędów, system (Windows 10/11).

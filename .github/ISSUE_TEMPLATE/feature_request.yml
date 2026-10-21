@@ -1,0 +1,17 @@
+name: Pomysł
+description: Zaproponuj nową funkcję
+title: "[Pomysł] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Co chciałbyś zobaczyć w launcherze?
+      description: Opisz funkcję i po co ci ona.
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Przykłady
+      description: Linki, zrzuty ekranu albo inne launchery, w których to widziałeś.
