@@ -2,7 +2,7 @@
 
 <img src="assets/banner.png" alt="Proud Client" width="100%">
 
-### Launcher Minecraft: profile, Fabric / Quilt / Forge / NeoForge, sklep shaderów i skin 3D
+### Launcher Minecrafta: profile, Fabric / Quilt / Forge / NeoForge, shadery, skiny i własny wygląd menu gry
 
 [![Pobierz](https://img.shields.io/badge/POBIERZ-Windows-9bf6c5?style=for-the-badge&labelColor=0b0e17)](https://github.com/exifez/PROUD-CLIENT/releases/latest)
 [![Wersja](https://img.shields.io/github/v/release/exifez/PROUD-CLIENT?style=for-the-badge&color=ff8fc8&labelColor=0b0e17&label=wersja)](https://github.com/exifez/PROUD-CLIENT/releases/latest)
@@ -10,7 +10,7 @@
 [![Discord](https://img.shields.io/badge/DISCORD-do%C5%82%C4%85cz-5865F2?style=for-the-badge&labelColor=0b0e17&logo=discord&logoColor=white)](https://discord.gg/rQ9YknS5c)
 [![Licencja](https://img.shields.io/badge/licencja-MIT-6ec5ff?style=for-the-badge&labelColor=0b0e17)](LICENSE)
 
-[**Pobierz**](https://github.com/exifez/PROUD-CLIENT/releases/latest) · [Funkcje](#funkcje) · [Instalacja](#instalacja) · [Loadery](#loadery-modów) · [FAQ](#najczęstsze-pytania) · [Historia zmian](CHANGELOG.md) · [Zgłoś problem](https://github.com/exifez/PROUD-CLIENT/issues/new/choose) · [Discord](https://discord.gg/rQ9YknS5c)
+[**Pobierz**](https://github.com/exifez/PROUD-CLIENT/releases/latest) · [Funkcje](#funkcje) · [Zrzuty](#zrzuty-ekranu) · [Instalacja](#instalacja) · [Loadery](#loadery-modów) · [FAQ](#najczęstsze-pytania) · [Historia zmian](CHANGELOG.md) · [Zgłoś problem](https://github.com/exifez/PROUD-CLIENT/issues/new/choose) · [Discord](https://discord.gg/rQ9YknS5c)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## Co to jest
 
-**Proud Client** to launcher Minecrafta, który sam instaluje loader, dobrane mody i dodatki. Wybierasz profil, klikasz **GRAJ** i gotowe: więcej FPS, voicechat, mody pod PvP i SMP, shadery, własny wygląd menu gry i skin zmieniany prosto z launchera.
+**Proud Client** to launcher Minecrafta, który sam instaluje loader, dobrane mody i dodatki. Wybierasz profil, klikasz **GRAJ** i gotowe: więcej FPS, voicechat, mody pod PvP i SMP, shadery, własny wygląd menu gry i skiny zmieniane prosto z launchera. Pliki (mody, modpacki, paczki tekstur, shadery, skiny) wystarczy **przeciągnąć na okno**.
 
 <p align="center"><img src="assets/home.png" width="88%" alt="Ekran główny Proud Client"></p>
 
@@ -26,53 +26,50 @@
 
 | | |
 |---|---|
-| 🗂️ **Wiele profili** | Każdy z własną wersją gry, loaderem, modami, światami i ustawieniami. Duplikowanie, zmiana nazwy, usuwanie. |
+| 🗂️ **Wiele profili** | Każdy z własną wersją gry, loaderem, modami, światami i ustawieniami. Duplikowanie, zmiana nazwy, usuwanie. Profil można wysłać znajomemu małym plikiem `.proudprofile` (lista modów, bez plików .jar). |
 | 🧩 **Fabric, Quilt, Forge, NeoForge** | Loader instaluje się sam przy pierwszym starcie profilu. |
-| 🛒 **Sklep** | Shadery, paczki tekstur i modpacki z Modrinth jednym kliknięciem. Modpack tworzy nowy profil. |
-| ⚡ **Optymalizacja FPS** | Sodium, Lithium, FerriteCore i inne, z presetami dla słabego PC, zbalansowanym i jakościowym. |
-| 🔄 **Aktualizacje modów** | Podgląd, co ma nowszą wersję, przycisk „Zaktualizuj teraz” albo automatycznie przy starcie gry. |
-| 🧍 **Skin 3D** | Podgląd postaci w 3D i zmiana skina na koncie Microsoft bez wchodzenia na stronę Mojang. |
+| 🧲 **Przeciągnij i upuść** | Mody `.jar`, modpacki `.mrpack`, paczki tekstur, shadery, skiny, peleryny i profile same trafiają tam, gdzie trzeba. |
+| 🔎 **Odkrywaj** | Shadery, paczki tekstur i modpacki z Modrinth jednym kliknięciem, z aktualizacjami paczek i shaderów. Modpack tworzy nowy profil. |
+| ⚡ **Optymalizacja FPS** | Sodium, Lithium, FerriteCore i inne, z presetami dla słabego PC, zbalansowanym i jakościowym oraz gotowymi flagami JVM. |
+| 🔄 **Aktualizacje modów** | Mody aktualizują się przy każdym starcie gry, a po aktualizacji można wrócić do poprzedniej wersji moda. |
+| 🧍 **Skin 3D i biblioteka skinów** | Podgląd postaci w 3D, zmiana skina na koncie Microsoft bez wchodzenia na stronę Mojang i zapisane skiny przełączane jednym kliknięciem. |
 | ☕ **Automatyczna Java** | Launcher pobiera Javę potrzebną dla wybranej wersji gry. |
-| 💾 **Kopie zapasowe światów** | Przed grą i po niej, z przywracaniem jednym kliknięciem. |
+| 💾 **Światy** | Lista światów, **Graj** wchodzi prosto do świata, eksport do ZIP, kopie zapasowe przed grą i po niej z przywracaniem. |
+| 📥 **Import z innych launcherów** | Światy, serwery, ustawienia, paczki tekstur i shadery z oficjalnego launchera, TLaunchera, Prisma i MultiMC. |
 | 🎮 **PvP i SMP** | Mod Menu pod prawym Shiftem, FPS overlay, Fullbright, HUD i inne. |
 | 🎙️ **Voice chat** | Simple Voice Chat gotowy do gry. |
 | 🌐 **ViaFabricPlus** | Wejście na serwery działające na innej wersji gry. |
-| 🎨 **Własny wygląd** | Paczki tekstur Visuals, Proud PVP i Proud Gear, własne tło menu, 12 motywów, tło launchera, opcjonalne dźwięki. |
+| 🎨 **Własny wygląd** | Paczki tekstur Visuals (nowe menu gry w pięciu kolorach), Proud PVP i Proud Gear, własne tło menu, kolejność paczek, motywy launchera, opcjonalne dźwięki. |
 | 👥 **Wiele kont** | Konta Microsoft i offline, szybkie przełączanie. |
-| 📡 **Serwery** | Lista ulubionych ze statusem na żywo, polecane serwery i dołączanie jednym kliknięciem. |
-| 💬 **Discord Rich Presence** | Na Discordzie widać „Proud Client”, wersję gry i serwer. |
-| 📊 **Statystyki** | Czas gry, najczęściej grane wersje i serwery. |
-| 🌍 **Polski i עברית** | Pełny interfejs po polsku i hebrajsku (z układem od prawej do lewej). |
-| 🔔 **Powiadomienia** | Informacja o nowej wersji Minecrafta, automatyczne aktualizacje launchera. |
+| 📡 **Serwery** | Ulubione ze statusem na żywo, nickami graczy i czasem gry, polecane serwery, powiadomienie gdy ulubiony serwer wróci online, wysyłanie listy do gry. |
+| 💬 **Discord** | Rich Presence, a zrzuty ekranu można wysłać na kanał przez webhook. |
+| 🎥 **Tryb stream** | Jednym skrótem (Ctrl+Shift+S) ukrywa nick, adresy serwerów, ścieżki i logi oraz wyłącza Rich Presence. |
+| 🖥️ **Konsola gry w osobnym oknie** | Z kopiowaniem linku do logu na mclo.gs. |
+| ⌨️ **Paleta poleceń** | Ctrl+K: szybkie przejście na stronę, start gry, zmiana profilu. |
+| 📊 **Statystyki** | Czas gry, wykres ostatnich 14 dni, najczęściej grane wersje i serwery. |
+| 🌍 **Polski, English i עברית** | Interfejs po polsku i angielsku, a po hebrajsku z układem od prawej do lewej (tłumaczenia mogą być niepełne). |
+| 🔔 **Aktualizacje** | Nowe wersje launchera instalują się same, a launcher informuje też o nowych wersjach Minecrafta. |
 
 ## Zrzuty ekranu
 
 <p align="center">
-  <img src="assets/profiles.png" width="49%" alt="Nowy profil: wersja gry i loader">
-  <img src="assets/mods.png" width="49%" alt="Mody i aktualizacje">
-</p>
-<p align="center">
-  <img src="assets/store.png" width="49%" alt="Sklep: shadery">
-  <img src="assets/store-modpacks.png" width="49%" alt="Sklep: modpacki">
-</p>
-<p align="center">
-  <img src="assets/store-textures.png" width="49%" alt="Sklep: paczki tekstur">
+  <img src="assets/mods.png" width="49%" alt="Mody i kategorie">
   <img src="assets/servers.png" width="49%" alt="Serwery ze statusem na żywo">
 </p>
 <p align="center">
-  <img src="assets/skin.png" width="49%" alt="Skin 3D">
-  <img src="assets/system.png" width="49%" alt="Ustawienia RAM">
+  <img src="assets/look.png" width="49%" alt="Wygląd i kosmetyka">
+  <img src="assets/system.png" width="49%" alt="Import z innego launchera">
 </p>
-<p align="center">
-  <img src="assets/stats.png" width="49%" alt="Statystyki">
-  <img src="assets/profile-tools.png" width="49%" alt="Eksport i import profili">
-</p>
+
+<sub>Zrzuty pokazują przykładowe dane (np. serwery `example.com`).</sub>
 
 ## Instalacja
 
 1. Wejdź w [**Releases**](https://github.com/exifez/PROUD-CLIENT/releases/latest) i pobierz `Proud-Client-Setup-<wersja>.exe`.
 2. Uruchom instalator.
 3. Zaloguj się kontem Microsoft (albo dodaj konto offline) i kliknij **GRAJ**.
+
+Instalacja jest dla jednego konta Windows i nie wymaga uprawnień administratora. Odinstalowanie nie usuwa Twoich danych.
 
 Java jest pobierana automatycznie, nie musisz niczego instalować ręcznie.
 
@@ -87,7 +84,7 @@ Java jest pobierana automatycznie, nie musisz niczego instalować ręcznie.
 | **Forge** | Modpacki i mody z Modrinth | Instalator uruchamia się przy pierwszym starcie profilu |
 | **NeoForge** | Nowsze modpacki (Minecraft od 1.20.2) | Jak Forge |
 
-Katalog gotowych modów w zakładce MODY jest przygotowany pod Fabric i Quilt. Na Forge i NeoForge niedostępne pozycje są wyszarzone, resztę dodajesz ze **SKLEPU** (modpacki) albo jako własne mody.
+Katalog gotowych modów w zakładce MODY jest przygotowany pod Fabric i Quilt. Na Forge i NeoForge niedostępne pozycje są wyszarzone, resztę dodajesz z zakładki **ODKRYWAJ** (modpacki) albo jako własne mody.
 
 ## Najczęstsze pytania
 
@@ -100,13 +97,13 @@ Launcher pobiera mody, shadery i tekstury wyłącznie z Modrinth i sprawdza ich 
 <details>
 <summary><b>Czy mogę dodać własne mody?</b></summary>
 
-Tak, w zakładce MODY > WŁASNE, osobno dla każdego profilu.
+Tak, w zakładce MODY > WŁASNE, osobno dla każdego profilu. Pliki `.jar` możesz też po prostu przeciągnąć na okno launchera.
 </details>
 
 <details>
 <summary><b>Jak działają aktualizacje?</b></summary>
 
-Launcher sam sprawdza nowe wersje i pyta o restart (SYSTEM > Aktualizacje). Aktualizacje modów są w zakładce MODY.
+Aktualizacje launchera są obowiązkowe: nowa wersja pobiera się i instaluje sama, żeby wszyscy mieli tę samą, działającą wersję. Mody aktualizują się przy każdym starcie gry (MODY > Aktualizacje, tam też cofniesz moda do poprzedniej wersji).
 </details>
 
 <details>
@@ -119,6 +116,18 @@ W folderze `.proudclient` w `%APPDATA%`. Odinstalowanie launchera ich nie usuwa.
 <summary><b>Czy mogę zmienić skin, mając konto offline?</b></summary>
 
 Nie. Skin jest przypisany do konta Microsoft na serwerach Mojang, więc zmiana działa tylko po zalogowaniu kontem Microsoft.
+</details>
+
+<details>
+<summary><b>Jak przenieść światy z innego launchera?</b></summary>
+
+SYSTEM > Import z innego launchera. Launcher wykrywa oficjalny launcher, TLauncher, Prism i MultiMC, albo wskażesz folder sam. Oryginalne pliki zostają nietknięte, a mody trzeba pobrać ponownie z katalogu.
+</details>
+
+<details>
+<summary><b>Jak wysłać znajomemu mój zestaw modów?</b></summary>
+
+W oknie profilu kliknij **Udostępnij profil**. Powstaje mały plik `.proudprofile` z listą modów (bez plików .jar). Znajomy przeciąga go na okno launchera albo klika **Importuj profil**.
 </details>
 
 <details>

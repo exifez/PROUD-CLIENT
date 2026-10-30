@@ -3,6 +3,39 @@
 Najnowsze na górze. Pełne notatki każdej wersji są też na stronie [Releases](https://github.com/exifez/PROUD-CLIENT/releases).
 
 
+## 2.4.0
+- Import swiatow, ustawien, serwerow i paczek z innych launcherow
+- Aktualizacje paczek tekstur i shaderow z Modrinth
+- Motywy kolorystyczne menu gry
+
+## 2.3.0
+- Nowy wyglad menu glownego gry: logo proud, fioletowa mgla w tle, zaokraglone przyciski
+
+## 2.2.0
+- Przeciaganie plikow na okno (mody, modpacki, tekstury, shadery, skiny, profile)
+- SKLEP przemianowany na ODKRYWAJ, uporzadkowana zakladka MODY
+- Graj i Eksport swiatow, gracze online na serwerach
+- Udostepnianie profilu plikiem .proudprofile
+- Kolejnosc i podglad paczek tekstur, nowe mikstury w Proud PVP
+
+## 2.1.0
+- Nowy wyglad launchera (pasek z ikonami, czysty interfejs, Matrix domyslnie wylaczony)
+- Konsola gry w osobnym oknie, kopiowanie linku z mclo.gs
+- Biblioteka skinow, zrzuty na Discorda, powiadomienia o serwerach
+- Cofanie aktualizacji modow, wysylanie serwerow do gry, wykres czasu gry
+- Nowe tekstury: luk (PvP), pola tekstowe i suwaki (Visuals)
+
+## 2.0.0
+- Obowiazkowe aktualizacje launchera i modow
+- Ikona i czas gry przy serwerach, zarzadzanie swiatami, gotowe flagi JVM
+- Proud PVP: nowe serca, jablka, perla i totem
+- Paleta polecen Ctrl+K
+
+## 1.9.0
+- Ulubione serwery: gwiazdka, opis, ikona, grupa Ulubione i sortowanie
+- Tryb stream (Ctrl+Shift+S): rozmywa nick, adresy, logi i wylacza Discord Rich Presence
+- Proud Gear: nowe tekstury narzedzi (kilof, siekiera, lopata, motyka)
+
 ## 1.8.0
 
 - Kosmetyka w grze: wbudowany mod Proud Cosmetics (peleryna, aura, tag przy nicku) instaluje sie sam w profilach Fabric i Quilt, ustawienia w WYGLAD
